@@ -13,6 +13,6 @@ Merupakan sebuah program yang mengimplementasikan _Greedy Algorithm_ atau algori
 5. Fungsi objektif = meminimumkan total jumlah koin
 
 ### Link Pengumpulan
-Video = p
+Video = https://drive.google.com/file/d/11XAIbFThb8T2KaqXwuVyBbt_QRGeqfYq/view?usp=sharing
    
 
